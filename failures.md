@@ -1,8 +1,7 @@
 # หา 5 failure วินิจฉัยชนิด
 # ซ่อมจริง 2 อัน โชว์ trace ก่อน/หลัง + metric เปลี่ยน
-# reflection 250 คำ + commit เป็นขั้น
 
-## ตารางวินิจฉัย 5 Failure Modes
+## ตารางวินิจฉัย 5 Failure Modes 
 
 | No. | Query ที่พัง / สุ่มเสี่ยง | ชนิดความผิดพลาด (Failure Mode) | สาเหตุที่ทำให้ระบบพัง (Root Cause) | แนวทางการแก้ไข (Fix Strategy) |
 |---|---|---|---|---|
